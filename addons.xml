@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.tuga" name="TUGA.Repo" version="0.0.2" provider-name="diassousa66">
+<addon id="repository.tuga" name="TUGA.Repo" version="0.0.3" provider-name="diassousa66">
 	<extension point="xbmc.addon.repository" name="TUGA Repo">
 		<info compressed="false">http://raw.github.com/diassousa66/repository.tuga/master/addons.xml</info>
 		<checksum>http://raw.github.com/diassousa66/repository.tuga/master/addons.xml.md5</checksum>
